@@ -3,10 +3,7 @@
    * Backlink Checker Tool for checking the existance of backlinks
    * on a certain website. See Documentation for more information.
    *
-   * @author Martin Albrecht <martin.albrecht@javacoffee.de>
-   * @version 1.0
-   * @link http://javacoffee.de
-   *
+
    * LICENSE:
    * --------
    * This program is free software; you can redistribute it and/or modify it
